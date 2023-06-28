@@ -27,8 +27,6 @@ Training: The model was trained using the training dataset. The loss function Bi
 
 ## Conclusion
 
-The Fire Detection Model has demonstrated a commendable accuracy of 80% on the test dataset, indicating its effectiveness in identifying fire instances in images. However, there is still room for improvement by utilizing hyperparameter tuning techniques like adjusting the learning rate and implementing early stopping
-
-Hyperparameter tuning can help fine-tune the model's parameters to achieve even higher accuracy levels. By systematically varying the learning rate and monitoring the model's performance, we can identify the optimal value that leads to better convergence and reduced overfitting. Early stopping enables us to stop training when the model's performance on the validation set starts deteriorating, preventing it from overfitting the training data.
+The Fire Detection Model has demonstrated a commendable accuracy of 80% on the test dataset, indicating its effectiveness in identifying fire instances in images. However, there is still room for improvement by utilizing hyperparameter tuning techniques like adjusting the learning rate and implementing early stopping.
 
 By incorporating these hyperparameter tuning techniques, we can enhance the Fire Detection Model's accuracy and robustness, making it an even more valuable tool for early fire detection and prevention.
