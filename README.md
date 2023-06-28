@@ -9,6 +9,7 @@ The Fire Detection Model is designed to identify and detect instances of fire in
 The dataset used for training and evaluating the Fire Detection Model can be found on Kaggle at the following link: https://www.kaggle.com/datasets/phylake1337/fire-dataset
 
 The dataset consists of a large collection of labeled images, with each image labeled as either containing fire or being fire-free. It is crucial to have a balanced dataset with a sufficient number of positive and negative examples to train an effective fire detection model. The dataset should be divided into training, validation, and testing sets to assess the model's performance accurately.
+
 ![1](https://github.com/Paragg99/Fire_Detection_Using_CNN/assets/91948118/e7fec990-91e6-431c-ba83-c4ae4cd9c736)
 ![highway_gre50](https://github.com/Paragg99/Fire_Detection_Using_CNN/assets/91948118/74cf9f1f-1f02-4d02-a302-466e13c310f0)
 
