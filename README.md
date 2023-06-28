@@ -24,7 +24,7 @@ Training: The model was trained using the training dataset. The loss function Bi
 
 **Testing:** Finally, we assessed the model's performance on the testing dataset, providing an 80% accurate measure of its ability to detect fire in unseen images.
 
-**Conclusion**
+## Conclusion
 
 The Fire Detection Model has demonstrated a commendable accuracy of 80% on the test dataset, indicating its effectiveness in identifying fire instances in images. However, there is still room for improvement by utilizing hyperparameter tuning techniques like adjusting the learning rate and implementing early stopping.
 
